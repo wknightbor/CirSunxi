@@ -1,0 +1,13 @@
+Hi !
+
+
+Compile
+  you need: sunxi3.4 source code and cross build compiler
+  
+  please, put the path to your sunxi3.4 source code into makefile
+  
+  $make
+  
+  copy into your system compiled module and try insmod and modprobe commands.
+  
+Thanks
